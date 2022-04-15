@@ -1,0 +1,10 @@
+var homePage = require('./home');
+var womanPage = require('./woman');
+var cartPage = require('./cart');
+homePage.navigateToTheTestRoom();
+homePage.enterData();
+womanPage.sectionOfWoman();
+womanPage.openGoods();
+cartPage.addToCart();
+cartPage.imgIsDisplay();
+cartPage.numberAndMailisDisplay();
