@@ -1,0 +1,12 @@
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+D:\32-ІПЗ\42-ІПЗ\2Semestr\Tests\2lr\TestAutomationLabs-master\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
